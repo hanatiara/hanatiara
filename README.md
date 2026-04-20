@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hanatiara/hanatiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering and Informatics student passionate about software development, machine learning, and building useful applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering and Informatics Student
+- 💻 Interested in Backend Development and Mobile Development
+- 🧠 Currently learning React, Web Development, and Mobile App Development
+- 📍 Based in Indonesia
+
+## 🛠️ Tech Stack
+
+- Programming: Python, PHP, Kotlin, Dart
+- Frameworks: Laravel, Flutter
+- Database: MySQL, NoSQL
+- Tools: Git, GitHub, VS Code, Postman
