@@ -13,5 +13,5 @@ I'm a Computer Engineering and Informatics student passionate about software dev
 
 - Programming: Python, PHP, Kotlin, Dart
 - Frameworks: Laravel, Flutter
-- Database: MySQL, NoSQL
+- Database: MySQL, NoSQL, PostgreSQL
 - Tools: Git, GitHub, VS Code, Postman, Android Studio
