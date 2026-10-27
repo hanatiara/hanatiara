@@ -12,6 +12,20 @@ I'm a Computer Engineering and Informatics student passionate about software dev
 
 ---
 
+## 💻 Hardware & Setup
+
+| Component | Specifications |
+| :--- | :--- |
+| **Laptop / PC** | ASUS Zenbook UX461FN |
+| **Processor** | Intel Core i7-8565U |
+| **RAM** | 16 GB |
+| **Storage** | 512 GB NVMe SSD |
+| **OS** | Arch Linux with Plasma 6 / Windows 11 Home |
+| **Monitor** | 24" IPS 1080p 75Hz |
+| **Peripherals** | Mechanical Keyboard (Red Switches) + Lenovo Gaming Mouse |
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
