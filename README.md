@@ -51,10 +51,6 @@ I'm a Computer Engineering and Informatics student passionate about software dev
   <img src="https://streak-stats.demolab.com?user=hanatiara&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanatiara&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" />
-</p>
-
 ---
 
 ## 📈 Contribution Activity
