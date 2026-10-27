@@ -56,9 +56,8 @@ I'm a Computer Engineering and Informatics student passionate about software dev
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanatiara&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanatiara&theme=tokyonight" />
 </p>
-
 ---
 
 ## ☕ Support My Work
