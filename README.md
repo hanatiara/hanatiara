@@ -94,3 +94,11 @@ If you like my projects, consider giving them a ⭐ on GitHub!
 <p align="center">
   <b>✨ Thanks for visiting my profile! ✨</b>
 </p>
+
+---
+
+<p align="center">
+  <a href="https://open.spotify.com/track/2LRVzVFKil0ptmjkYLV27e" target="_blank">
+    <img src="https://spotify-github-readme.maxeda.dev/api/encrypt?spotifyUrl=https://open.spotify.com/track/2LRVzVFKil0ptmjkYLV27e" alt="On Repeat" width="400" />
+  </a>
+</p>
