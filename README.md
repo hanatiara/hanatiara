@@ -56,7 +56,7 @@ I'm a Computer Engineering and Informatics student passionate about software dev
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=hanatiara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://repobeats.axiom.co/api/embed?username=hanatiara&repository=YOUR_REPO_NAME" />
 </p>
 
 ---
