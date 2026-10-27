@@ -56,7 +56,7 @@ I'm a Computer Engineering and Informatics student passionate about software dev
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://repobeats.axiom.co/api/embed?username=hanatiara&repository=YOUR_REPO_NAME" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanatiara&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
