@@ -12,7 +12,7 @@ I'm a Computer Engineering and Informatics student passionate about software dev
 
 ---
 
-## 💻 Hardware & Setup
+## 💻 Hardware & Coding Setup
 
 | Component | Specifications |
 | :--- | :--- |
@@ -20,7 +20,7 @@ I'm a Computer Engineering and Informatics student passionate about software dev
 | **Processor** | Intel Core i7-8565U |
 | **RAM** | 16 GB |
 | **Storage** | 512 GB NVMe SSD |
-| **OS** | Arch Linux with Plasma 6 / Windows 11 Home |
+| **OS** | Arch Linux with Plasma 6 / Windows 11 Home (Main Setup) |
 | **Monitor** | 24" IPS 1080p 75Hz |
 | **Peripherals** | Mechanical Keyboard (Red Switches) + Lenovo Gaming Mouse |
 
